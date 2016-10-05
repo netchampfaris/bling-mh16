@@ -18,14 +18,11 @@ RealTime app for Questioning / Polling / Caring (by getting location of your dea
 
 ###How to setup our project on your pc
 1. Clone our github project 
-2. Install nodejs from this website
-3. Now install gulp and bower by typing `npm install -g gulp bower` in command prompt 
-4. Now go to project folder where u cloned/extracted our project and open cmd on that folder 
-5. On cmd type `npm install && bower install`
-6. Now type `gulp` on cmd to serve our project on browser
+2. Install NodeJS
+3. Do `npm install -g gulp bower` 
+4. `cd` into the project folder
+5. Do `npm install && bower install`
+6. Do `gulp` to serve the project on local server
 
-###apk
-link
-
-### web Demo
+### Demo
 http://bling.byethost6.com
